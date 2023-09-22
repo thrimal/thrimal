@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Thrimal Avishka</h1>
+<h1 align="left">Hi 👋, I'm Thrimal</h1>
 <h3 align="left">A passionate full-stack developer from Srilanka</h3>
 
 - 🔭 I’m currently working on some **Springboot and Angular projects**
