@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on some **Springboot and Angular projects**
 
-- 🌱 I’m currently learning new technologies like **Angular, Springboot, React and many more**
+- 🌱 I’m currently learning new technologies like **Angular, Springboot, Java, React, Vue, and many more**
 
 - 💬 Ask me about **Java, Spring Boot and Angular**
 
